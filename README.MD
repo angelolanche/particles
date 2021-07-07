@@ -1,5 +1,5 @@
-![Alt Text](assets/particles.gif)
-
+![particles](assets/particles.gif)
+ 
 <p align="center"> 
     <img alt="particles" title="particles" src="assets/particles.gif" />
 </p>
