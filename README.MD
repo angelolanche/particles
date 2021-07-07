@@ -1,7 +1,5 @@
-![Alt Text](assets/particles.gif)
-
 <p align="center"> 
-    <img alt="particles" title="particles" src="assets/particles.gif" />
+    ![Alt Text](https://github.com/AngeloLanch/particles/blob/master/assets/partigles.gif)
 </p>
 
 <h4 align="center"> 
