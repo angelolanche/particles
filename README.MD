@@ -1,6 +1,5 @@
-<p align="center"> 
-    ![Alt Text](https://github.com/AngeloLanch/particles/blob/master/assets/partigles.gif)
-</p>
+
+    ![particles](https://github.com/AngeloLanch/particles/blob/master/assets/partigles.gif)
 
 <h4 align="center"> 
 	🚧 Particles v1.0.0 - sempre em construção... 🚧
