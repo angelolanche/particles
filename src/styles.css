@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(
+    to right top,
+    #011307,
+    #001712,
+    #00191c,
+    #001a26,
+    #001a2e,
+    #00253d,
+    #01304d,
+    #003c5d,
+    #005a76,
+    #007884,
+    #009686,
+    #5cb280
+  );
+}
