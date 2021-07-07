@@ -21,10 +21,10 @@
 
 ## 💻 Sobre o projeto
 
-Particles é um projeto que eu venho adianta fas tempo, por um motivo bem bobo. Eu sempre olhava este efeito
-visual tão satisfatório das partículas e pensava. Quando eu puder fazer isso sendo consultar nenhum código,
-eu faço!
-Depois de algum tempo como desenvolvedor, entendi então o básico. Não existe projeto sem consulta, do mais simples ao mais complexo. Dai fui lá, e fiz.
+Particles é um projeto que eu venho adiando faz tempo, por um motivo bem bobo. Eu sempre olhava este efeito
+visual tão satisfatório das partículas e pensava: "Quando eu puder fazer isso sendo consultar nenhum código,
+eu faço!"
+Depois de algum tempo como desenvolvedor, entendi então o básico. Não existe projeto sem consulta, do mais simples ao mais complexo. Dai fui lá e fiz.
 
 Neste projeto, trago toda a elegância dessas pequenas partículas, se ligando e se separando umas das outras
 enquanto percorrem o espaço. Eu fico fascinado... me lembra muito nossas próprias relações durante a vida.
