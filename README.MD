@@ -1,6 +1,4 @@
-
-    ![particles](https://github.com/AngeloLanch/particles/blob/master/assets/partigles.gif)
-
+![particles](https://github.com/AngeloLanch/particles/blob/master/assets/particles.gif)
 <h4 align="center"> 
 	🚧 Particles v1.0.0 - sempre em construção... 🚧
 </h4>
