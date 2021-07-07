@@ -1,7 +1,7 @@
-![Alt Text](./assets/particles.gif)
+![Alt Text](assets/particles.gif)
 
 <p align="center"> 
-    <img alt="particles" src="./assets/particles.gif" />
+    <img alt="particles" title="particles" src="assets/particles.gif" />
 </p>
 
 <h4 align="center"> 
@@ -43,17 +43,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript][javascript]
 - [HTML][HTML]
 - [CSS][CSS]
-- 
-## :mailbox_closed: API
-
-A API utilizada para fornecer os dados climáticos foi a OpenWeather, em sua versão gratuíta:
-Para mais detalhes acesse: https://openweathermap.org/
 
 ## :calling: Como executar o projeto
-
-Este é um projeto inteiramente front-end!
-A chamada para a utilização da API fica na pasta services no arquivo weatherAPI
-
 ### Pré-requisitos
 
 Para rodar este projeto, basta abrir o arquivo HTML de nome 'index.html' 
